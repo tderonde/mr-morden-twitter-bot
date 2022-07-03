@@ -12,3 +12,5 @@ user_names = list(twitters.loc[twitters['party'] == 'R']['username'].values)
 user_names.append('B5News')
 # append JMS twitter
 user_names.append('straczynski')
+
+## next steps: add MrMordenBot followers/following to list ##
