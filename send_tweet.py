@@ -1,3 +1,5 @@
+from tweepy_client import client
+
 # send tweet or reply to user's tweet using twitter api 
 def send_tweet(text, tweet_id=None):
     print(f"Running {send_tweet.__name__}({text, tweet_id})...")

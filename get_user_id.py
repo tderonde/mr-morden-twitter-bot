@@ -1,3 +1,5 @@
+from tweepy_client import client
+
 # get user id from twitter api
 def get_user_id(user_name):
     print(f"Running {get_user_id.__name__}({user_name})...")
