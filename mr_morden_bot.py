@@ -14,7 +14,7 @@ tweet_link = None
 
 while tweet_link == None and i < 5:
     print("Starting...")
-    # find user id for random Republican user name or B5 News 
+    # find user id for random Republican user name, B5 News, or JMS
     random_user_name = random.choice(user_names)
     random_user_id = get_user_id(random_user_name)
 
