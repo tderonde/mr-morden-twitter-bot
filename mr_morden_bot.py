@@ -9,8 +9,10 @@ from send_tweet import send_tweet
 
 ## run functions to post tweet ##
 
+i = 0
 tweet_link = None
-while tweet_link == None:
+
+while tweet_link == None and i < 5:
     print("Starting...")
     # find user id for random Republican user name or B5 News 
     random_user_name = random.choice(user_names)
@@ -25,3 +27,5 @@ while tweet_link == None:
         tweet_link = send_tweet(quote, random_user_tweet_id)
     else:
         print("Retrying...")
+    i += 1
+    
