@@ -25,6 +25,7 @@ while tweet_link == None and i < 5:
     quote = random.choice(quotes)
     if quote and random_user_tweet_id:
         tweet_link = send_tweet(quote, random_user_tweet_id)
+        print("Complete!")
     else:
         print("Retrying...")
     i += 1
