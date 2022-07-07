@@ -74,7 +74,7 @@ quotes = [
 ,"He told you to expected a visitor, did he not?"
 ,"I’m just a shadow of my former self."
 ,"The incident has forced us to look for outside support sooner than intended."
-,"My associates are planning… in case certain parties try to take advantage of the situation."
+,"My associates are planning... in case certain parties try to take advantage of the situation."
 ,"They did it before. A thousand years ago."
 ,"In exchange for certain favors..."
 ,"The resolution passed quietly."
