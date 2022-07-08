@@ -17,6 +17,7 @@ while tweet_link == None and i < 5:
     print("Starting...")
     # find user id for random Republican user name or B5 News 
     user_name = random.choice(user_names)
+    print(f"Random user selected: {user_name}")
     user_id = get_user_id(user_name)
 
     # retrieve random user's tweet id 
@@ -25,6 +26,7 @@ while tweet_link == None and i < 5:
     # reply to the random user's most recent tweet with a random Mr. Morden quote or image
     tweet_list = list(zip(quotes, ['text'] * len(quotes))) + list(zip(png_filenames, ['png'] * len(png_filenames)))
     tweet = random.choice(tweet_list)
+    print("Radom tweet selected: {tweet}")
 
     if tweet and tweet_id:
         if tweet[1] == 'text':
