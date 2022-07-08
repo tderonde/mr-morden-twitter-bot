@@ -26,7 +26,7 @@ while tweet_link == None and i < 5:
     # reply to the random user's most recent tweet with a random Mr. Morden quote or image
     tweet_list = list(zip(quotes, ['text'] * len(quotes))) + list(zip(png_filenames, ['png'] * len(png_filenames)))
     tweet = random.choice(tweet_list)
-    print("Radom tweet selected: {tweet}")
+    print(f"Random tweet selected: {tweet}")
 
     if tweet and tweet_id:
         if tweet[1] == 'text':
