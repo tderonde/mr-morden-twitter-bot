@@ -2,7 +2,7 @@ import random
 
 from quotes import quotes
 from usernames import user_names
-from tweepy_client import client
+from tweepy_client import client, api
 from get_user_id import get_user_id
 from get_user_tweet import get_user_tweet
 from send_tweet import send_tweet
@@ -14,7 +14,7 @@ tweet_link = None
 
 while tweet_link == None and i < 5:
     print("Starting...")
-    # find user id for random Republican user name, B5 News, or JMS
+    # find user id for random Republican user name or B5 News 
     random_user_name = random.choice(user_names)
     random_user_id = get_user_id(random_user_name)
 
@@ -25,7 +25,6 @@ while tweet_link == None and i < 5:
     quote = random.choice(quotes)
     if quote and random_user_tweet_id:
         tweet_link = send_tweet(quote, random_user_tweet_id)
-        print("Complete!")
     else:
         print("Retrying...")
     i += 1
