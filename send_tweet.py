@@ -2,7 +2,7 @@ from tweepy_client import client, api
 
 # send tweet or reply to user's tweet using twitter api 
 def send_tweet(text, tweet_id=None, media_id=None):
-    print(f"Running {send_tweet.__name__}({text, tweet_id})...")
+    print(f"Running {send_tweet.__name__}({text, tweet_id, media_id})...")
     try:
         response = client.create_tweet(
             text=text
