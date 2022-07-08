@@ -17,6 +17,6 @@ def send_tweet(text, tweet_id=None, media_id=None):
     return tweet_link
 
 if __name__ == "__main__":
-    media = api.simple_upload("iamges/1.png")
+    media = api.simple_upload("images/1.png")
     media_id = media.media_id
     send_tweet("Hello.", 1541147179426861056, media_id)
