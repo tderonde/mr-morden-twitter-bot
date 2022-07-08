@@ -13,5 +13,4 @@ def get_user_id(user_name):
     return user_id
 
 if __name__ == "__main__":
-    from tweepy_client import client
     get_user_id('MrMordenBot')

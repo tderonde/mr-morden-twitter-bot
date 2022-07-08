@@ -1,4 +1,4 @@
-from tweepy_client import client
+from tweepy_client import client, api
 
 # send tweet or reply to user's tweet using twitter api 
 def send_tweet(text, tweet_id=None, media_id=None):
@@ -17,5 +17,6 @@ def send_tweet(text, tweet_id=None, media_id=None):
     return tweet_link
 
 if __name__ == "__main__":
-    from tweepy_client import client
-    send_tweet("Hello.", 1541147179426861056, "images/1.png")
+    media = api.simple_upload("iamges/1.png")
+    media_id = media.media_id
+    send_tweet("Hello.", 1541147179426861056, media_id)
