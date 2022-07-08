@@ -41,4 +41,3 @@ while tweet_link == None and i < 5:
     else:
         print("Retrying...")
     i += 1
-    
