@@ -1,12 +1,11 @@
 from tweepy_client import client
 
-# get user's latest tweet (exlcuding replies) from twitter api
+# get user's latest tweet (exlcuding retweets & replies) from twitter api
 def get_user_tweet(user_id):
     print(f"Running {get_user_tweet.__name__}({user_id})...")
     response = client.get_users_tweets(
         user_id
-        #, exclude=['retweets','replies']
-        , exclude=['replies']
+        , exclude=['retweets','replies']
         , max_results=5
     )
     try:
