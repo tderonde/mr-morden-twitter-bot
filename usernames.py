@@ -9,7 +9,7 @@ twitters['username'] = [str(handle)[1:] for handle in twitters['handle']]
 user_names = list(twitters.loc[twitters['party'] == 'R']['username'].values)
 
 # append babylon 5 twitter
-user_names.append('B5News')
+# user_names.append('B5News')
 # append JMS twitter
 user_names.append('straczynski')
 
