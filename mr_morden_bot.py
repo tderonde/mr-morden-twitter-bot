@@ -30,10 +30,10 @@ while tweet_link == None and i < 5:
 
     if tweet and tweet_id:
         if tweet[1] == 'text':
-            text = tweet[0]
+            text = tweet[0] + ' #B5onCWin23'
             media_id = None
         else:
-            text = None
+            text = '#B5onCWin23'
             media = api.simple_upload(tweet[0])
             media_id = media.media_id
         tweet_link = send_tweet(text, tweet_id, media_id)
