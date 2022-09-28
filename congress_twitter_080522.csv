@@ -1,0 +1,538 @@
+state,member_of_congress,name,party,handle
+WI,Senate,"Baldwin, Tammy",D,@SenatorBaldwin
+WY,Senate,"Barrasso, John",R,@SenJohnBarrasso
+CO,Senate,"Bennet, Michael F.",D,@SenatorBennet
+TN,Senate,"Blackburn, Marsha",R,@MarshaBlackburn
+CT,Senate,"Blumenthal, Richard",D,@SenBlumenthal
+MO,Senate,"Blunt, Roy",R,@RoyBlunt
+NJ,Senate,"Booker, Cory A.",D,@CoryBooker
+AR,Senate,"Boozman, John",R,@JohnBoozman
+IN,Senate,"Braun, Mike",R,@SenatorBraun
+OH,Senate,"Brown, Sherrod",D,@SenSherrodBrown
+NC,Senate,"Burr, Richard",R,@SenatorBurr
+WA,Senate,"Cantwell, Maria",D,@SenatorCantwell
+WV,Senate,"Capito, Shelley Moore",R,@SenCapito
+MD,Senate,"Cardin, Benjamin L.",D,@SenatorCardin
+DE,Senate,"Carper, Thomas R.",D,@SenatorCarper
+PA,Senate,"Casey, Robert P. Jr.",D,@SenBobCasey
+LA,Senate,"Cassidy, Bill",R,@SenBillCassidy
+ME,Senate,"Collins, Susan M.",R,@SenatorCollins
+DE,Senate,"Coons, Christopher A.",D,@ChrisCoons
+TX,Senate,"Cornyn, John",R,@JohnCornyn
+NV,Senate,"Cortez Masto, Catherine",D,@SenCortezMasto
+AR,Senate,"Cotton, Tom",R,@SenTomCotton
+ND,Senate,"Cramer, Kevin",R,@SenKevinCramer
+ID,Senate,"Crapo, Mike",R,@MikeCrapo
+TX,Senate,"Cruz, Ted",R,@SenTedCruz
+MT,Senate,"Daines, Steve",R,@SteveDaines
+IL,Senate,"Duckworth, Tammy",D,@SenDuckworth
+IL,Senate,"Durbin, Richard J.",D,@SenatorDurbin
+IA,Senate,"Ernst, Joni",R,@SenJoniErnst
+CA,Senate,"Feinstein, Dianne",D,@SenFeinstein
+NE,Senate,"Fischer, Deb",R,@SenatorFischer
+NY,Senate,"Gillibrand, Kirsten E.",D,@SenGillibrand
+SC,Senate,"Graham, Lindsey",R,@LindseyGrahamSC
+IA,Senate,"Grassley, Chuck",R,@ChuckGrassley
+TN,Senate,"Hagerty, Bill",R,@SenatorHagerty
+NH,Senate,"Hassan, Margaret Wood",D,@SenatorHassan
+MO,Senate,"Hawley, Josh",R,@HawleyMO
+NM,Senate,"Heinrich, Martin",D,@MartinHeinrich
+CO,Senate,"Hickenlooper, John W.",D,@SenatorHick
+HI,Senate,"Hirono, Mazie K.",D,@maziehirono
+ND,Senate,"Hoeven, John",R,@SenJohnHoeven
+MS,Senate,"Hyde-Smith, Cindy",R,@SenHydeSmith
+OK,Senate,"Inhofe, James M.",R,@JimInhofe
+WI,Senate,"Johnson, Ron",R,@SenRonJohnson
+VA,Senate,"Kaine, Tim",D,@timkaine
+AZ,Senate,"Kelly, Mark",D,@SenMarkKelly
+LA,Senate,"Kennedy, John",R,@SenJohnKennedy
+ME,Senate,"King, Angus S. Jr.",I,@SenAngusKing
+MN,Senate,"Klobuchar, Amy",D,@SenAmyKlobuchar
+OK,Senate,"Lankford, James",R,@SenatorLankford
+VT,Senate,"Leahy, Patrick J.",D,@SenatorLeahy
+UT,Senate,"Lee, Mike",R,@SenMikeLee
+NM,Senate,"Luján, Ben Ray",D,@SenatorLujan
+WY,Senate,"Lummis, Cynthia M.",R,@SenLummis
+WV,Senate,"Manchin, Joe, III",D,@Sen_JoeManchin
+MA,Senate,"Markey, Edward J.",D,@SenMarkey
+KS,Senate,"Marshall, Roger",R,@SenatorMarshall
+KY,Senate,"McConnell, Mitch",R,@senatemajldr
+NJ,Senate,"Menendez, Bob",D,@SenatorMenendez
+OR,Senate,"Merkley, Jeff",D,@SenJeffMerkley
+KS,Senate,"Moran, Jerry",R,@JerryMoran
+AK,Senate,"Murkowski, Lisa",R,@lisamurkowski
+CT,Senate,"Murphy, Christopher",D,@ChrisMurphyCT
+WA,Senate,"Murray, Patty",D,@PattyMurray
+GA,Senate,"Ossoff, Jon",D,@ossoff
+CA,Senate,"Padilla, Alex",D,@SenAlexPadilla
+KY,Senate,"Paul, Rand",R,@RandPaul
+MI,Senate,"Peters, Gary C.",D,@SenGaryPeters
+OH,Senate,"Portman, Rob",R,@senrobportman
+RI,Senate,"Reed, Jack",D,@SenJackReed
+ID,Senate,"Risch, James E.",R,@SenatorRisch
+UT,Senate,"Romney, Mitt",R,@SenatorRomney
+NV,Senate,"Rosen, Jacky",D,@SenJackyRosen
+SD,Senate,"Rounds, Mike",R,@SenatorRounds
+FL,Senate,"Rubio, Marco",R,@marcorubio
+VT,Senate,"Sanders, Bernard",I,@SenSanders
+NE,Senate,"Sasse, Ben",R,@SenSasse
+HI,Senate,"Schatz, Brian",D,@SenBrianSchatz
+NY,Senate,"Schumer, Charles E.",D,@SenSchumer
+FL,Senate,"Scott, Rick",R,@SenRickScott
+SC,Senate,"Scott, Tim",R,@SenatorTimScott
+NH,Senate,"Shaheen, Jeanne",D,@SenatorShaheen
+AL,Senate,"Shelby, Richard C.",R,@SenShelby
+AZ,Senate,"Sinema, Kyrsten",D,@SenatorSinema
+MN,Senate,"Smith, Tina",D,@SenTinaSmith
+MI,Senate,"Stabenow, Debbie",D,@SenStabenow
+AK,Senate,"Sullivan, Dan",R,@SenDanSullivan
+MT,Senate,"Tester, Jon",D,@SenatorTester
+SD,Senate,"Thune, John",R,@SenJohnThune
+NC,Senate,"Tillis, Thom",R,@SenThomTillis
+PA,Senate,"Toomey, Patrick J.",R,@SenToomey
+AL,Senate,"Tuberville, Tommy",R,@SenTuberville
+MD,Senate,"Van Hollen, Chris",D,@ChrisVanHollen
+VA,Senate,"Warner, Mark R.",D,@MarkWarner
+GA,Senate,"Warnock, Raphael G.",D,@SenatorWarnock
+MA,Senate,"Warren, Elizabeth",D,@SenWarren
+RI,Senate,"Whitehouse, Sheldon",D,@SenWhitehouse
+MS,Senate,"Wicker, Roger F.",R,@SenatorWicker
+OR,Senate,"Wyden, Ron",D,@RonWyden
+IN,Senate,"Young, Todd",R,@SenToddYoung
+NC,House,"Adams, Alma",D,@RepAdams
+AL,House,"Aderholt, Robert",R,@Robert_Aderholt
+CA,House,"Aguilar, Pete",D,@RepPeteAguilar
+GA,House,"Allen, Rick",R,@RepRickAllen
+TX,House,"Allred, Colin",D,@RepColinAllred
+NV,House,"Amodei, Mark",R,@MarkAmodeiNV2
+ND,House,"Armstrong, Kelly",R,@RepArmstrongND
+TX,House,"Arrington, Jodey",R,@RepArrington
+MA,House,"Auchincloss, Jake",D,@RepAuchincloss
+IA,House,"Axne, Cindy",D,@RepCindyAxne
+TX,House,"Babin, Brian",R,@RepBrianBabin
+NE,House,"Bacon, Don",R,@RepDonBacon
+IN,House,"Baird, Jim",R,@RepJimBaird
+OH,House,"Balderson, Troy",R,@RepBalderson
+IN,House,"Banks, Jim",R,@RepJimBanks
+KY,House,"Barr, Andy",R,@RepAndyBarr
+CA,House,"Barragán, Nanette",D,@RepBarragan
+CA,House,"Bass, Karen",D,@RepKarenBass
+OH,House,"Beatty, Joyce",D,@RepBeatty
+OR,House,"Bentz, Cliff",R,@RepBentz
+CA,House,"Bera, Ami",D,@RepBera
+MI,House,"Bergman, Jack",R,@RepJackBergman
+VA,House,"Beyer, Don",D,@RepDonBeyer
+OK,House,"Bice, Stephanie I.",R,@RepBice
+AZ,House,"Biggs, Andy",R,@RepAndyBiggsAZ
+FL,House,"Bilirakis, Gus M.",R,@RepGusBilirakis
+GA,House,"Bishop Jr., Sanford D.",D,@SanfordBishop
+NC,House,"Bishop, Dan",R,@RepDanBishop
+OR,House,"Blumenauer, Earl",D,@repblumenauer
+DE,House,"Blunt Rochester, Lisa",D,@RepLBR
+CO,House,"Boebert, Lauren",R,@RepBoebert
+OR,House,"Bonamici, Suzanne",D,@RepBonamici
+IL,House,"Bost, Mike",R,@RepBost
+GA,House,"Bourdeaux, Carolyn",D,@RepBourdeaux
+NY,House,"Bowman, Jamaal",D,@RepBowman
+PA,House,"Boyle, Brendan",D,@CongBoyle
+TX,House,"Brady, Kevin",R,@RepKevinBrady
+AL,House,"Brooks, Mo",R,@RepMoBrooks
+MD,House,"Brown, Anthony",D,@RepAnthonyBrown
+OH,House,"Brown, Shontel",D,@RepShontelBrown
+CA,House,"Brownley, Julia",D,@RepBrownley
+FL,House,"Buchanan, Vern",R,@VernBuchanan
+CO,House,"Buck, Ken",R,@RepKenBuck
+IN,House,"Bucshon, Larry",R,@RepLarryBucshon
+NC,House,"Budd, Ted",R,@RepTedBudd
+TN,House,"Burchett, Tim",R,@RepTimBurchett
+TX,House,"Burgess, Michael",R,@michaelcburgess
+MO,House,"Bush, Cori",D,@RepCori
+IL,House,"Bustos, Cheri",D,@RepCheri
+NC,House,"Butterfield, G.K.",D,@GKButterfield
+CA,House,"Calvert, Ken",R,@KenCalvert
+FL,House,"Cammack, Kat",R,@RepKatCammack
+CA,House,"Carbajal, Salud",D,@RepCarbajal
+CA,House,"Cardenas, Tony",D,@RepCardenas
+OH,House,"Carey, Mike",R,@RepMikeCarey
+AL,House,"Carl, Jerry L.",R,@RepJerryCarl
+IN,House,"Carson, André",D,@RepAndreCarson
+GA,House,"Carter, Buddy",R,@RepBuddyCarter
+TX,House,"Carter, John",R,@JudgeCarter
+LA,House,"Carter, Troy",D,@RepTroyCarter
+PA,House,"Cartwright, Matt",D,@RepCartwright
+HI,House,"Case, Ed",D,@RepEdCase
+IL,House,"Casten, Sean",D,@RepCasten
+FL,House,"Castor, Kathy",D,@USRepKCastor
+TX,House,"Castro, Joaquin",D,@JoaquinCastrotx
+NC,House,"Cawthorn, Madison",R,@RepCawthorn
+OH,House,"Chabot, Steve",R,@RepSteveChabot
+WY,House,"Cheney, Liz",R,@RepLizCheney
+FL,House,"Cherfilus-McCormick, Sheila",D,@CongresswomanSC
+CA,House,"Chu, Judy",D,@RepJudyChu
+RI,House,"Cicilline, David",D,@RepCicilline
+MA,House,"Clark, Katherine",D,@RepKClark
+NY,House,"Clarke, Yvette D.",D,@RepYvetteClarke
+MO,House,"Cleaver, Emanuel",D,@repcleaver
+VA,House,"Cline, Ben",R,@RepBenCline
+TX,House,"Cloud, Michael",R,@RepCloudTX
+SC,House,"Clyburn, James E.",D,@WhipClyburn
+GA,House,"Clyde, Andrew S.",R,@Rep_Clyde
+TN,House,"Cohen, Steve",D,@RepCohen
+OK,House,"Cole, Tom",R,@TomColeOK04
+KY,House,"Comer, James",R,@RepJamesComer
+VA,House,"Connolly, Gerald E. ""Gerry""",D,@GerryConnolly
+CA,House,"Conway, Connie",R,@RepConnieConway
+TN,House,"Cooper, Jim",D,@repjimcooper
+CA,House,"Correa, J. Luis",D,@RepLouCorrea
+CA,House,"Costa, Jim",D,@RepJimCosta
+CT,House,"Courtney, Joe",D,@RepJoeCourtney
+MN,House,"Craig, Angie",D,@RepAngieCraig
+AR,House,"Crawford, Rick",R,@RepRickCrawford
+TX,House,"Crenshaw, Dan",R,@RepDanCrenshaw
+FL,House,"Crist, Charlie",D,@RepCharlieCrist
+CO,House,"Crow, Jason",D,@RepJasonCrow
+TX,House,"Cuellar, Henry",D,@RepCuellar
+UT,House,"Curtis, John R.",R,@RepJohnCurtis
+KS,House,"Davids, Sharice",D,@RepDavids
+OH,House,"Davidson, Warren",R,@WarrenDavidson
+IL,House,"Davis, Danny K.",D,@RepDannyDavis
+IL,House,"Davis, Rodney",R,@RodneyDavis
+PA,House,"Dean, Madeleine",D,@RepDean
+OR,House,"DeFazio, Peter",D,@RepPeterDeFazio
+CO,House,"DeGette, Diana",D,@RepDianaDeGette
+CT,House,"DeLauro, Rosa L.",D,@rosadelauro
+WA,House,"DelBene, Suzan",D,@RepDelBene
+NY,House,"Delgado, Antonio",D,@repdelgado
+FL,House,"Demings, Val",D,@RepValDemings
+CA,House,"DeSaulnier, Mark",D,@RepDeSaulnier
+TN,House,"DesJarlais, Scott",R,@DesJarlaisTN04
+FL,House,"Deutch, Ted",D,@RepTedDeutch
+FL,House,"Diaz-Balart, Mario",R,@MarioDB
+MI,House,"Dingell, Debbie",D,@RepDebDingell
+TX,House,"Doggett, Lloyd",D,@RepLloydDoggett
+FL,House,"Donalds, Byron",R,@RepDonaldsPress
+PA,House,"Doyle, Michael",D,@USRepMikeDoyle
+SC,House,"Duncan, Jeff",R,@RepJeffDuncan
+FL,House,"Dunn, Neal",R,@DrNealDunnFL2
+TX,House,"Ellzey, Jake",R,@RepEllzey
+MN,House,"Emmer, Tom",R,@RepTomEmmer
+TX,House,"Escobar, Veronica",D,@RepEscobar
+CA,House,"Eshoo, Anna G.",D,@RepAnnaEshoo
+NY,House,"Espaillat, Adriano",D,@RepEspaillat
+KS,House,"Estes, Ron",R,@RepRonEstes
+PA,House,"Evans, Dwight",D,@RepDwightEvans
+TX,House,"Fallon, Pat",R,@RepPatFallon
+IA,House,"Feenstra, Randy",R,@RepFeenstra
+GA,House,"Ferguson, A. Drew",R,@RepDrewFerguson
+MN,House,"Fischbach, Michelle",R,@RepFischbach
+WI,House,"Fitzgerald, Scott",R,@RepFitzgerald
+PA,House,"Fitzpatrick, Brian",R,@RepBrianFitz
+TN,House,"Fleischmann, Chuck",R,@RepChuck
+TX,House,"Fletcher, Lizzie",D,@RepFletcher
+NE,House,"Flood, Mike",R,@USRepMikeFlood
+TX,House,"Flores, Mayra",R,@repmayraflores
+IL,House,"Foster, Bill",D,@RepBillFoster
+NC,House,"Foxx, Virginia",R,@virginiafoxx
+FL,House,"Frankel, Lois",D,@RepLoisFrankel
+FL,House,"Franklin, C. Scott",R,@RepFranklin
+ID,House,"Fulcher, Russ",R,@RepRussFulcher
+FL,House,"Gaetz, Matt",R,@RepMattGaetz
+WI,House,"Gallagher, Mike",R,@RepGallagher
+AZ,House,"Gallego, Ruben",D,@RepRubenGallego
+CA,House,"Garamendi, John",D,@RepGaramendi
+NY,House,"Garbarino, Andrew R.",R,@RepGarbarino
+IL,House,"García, Jesús ""Chuy""",D,@RepChuyGarcia
+CA,House,"Garcia, Mike",R,@RepMikeGarcia
+TX,House,"Garcia, Sylvia",D,@RepSylviaGarcia
+OH,House,"Gibbs, Bob",R,@RepBobGibbs
+FL,House,"Gimenez, Carlos A.",R,@RepCarlos
+TX,House,"Gohmert, Louie",R,@replouiegohmert
+ME,House,"Golden, Jared",D,@RepGolden
+CA,House,"Gomez, Jimmy",D,@RepJimmyGomez
+TX,House,"Gonzales, Tony",R,@RepTonyGonzales
+PR,House,"González-Cólón, Jenniffer",R,@RepJenniffer
+OH,House,"Gonzalez, Anthony",R,@RepAGonzalez
+TX,House,"Gonzalez, Vicente",D,@RepGonzalez
+VA,House,"Good, Bob",R,@RepBobGood
+TX,House,"Gooden, Lance",R,@Lancegooden
+AZ,House,"Gosar, Paul A.",R,@RepGosar
+NJ,House,"Gottheimer, Josh",D,@RepJoshG
+TX,House,"Granger, Kay",R,@RepKayGranger
+LA,House,"Graves, Garret",R,@RepGarretGraves
+MO,House,"Graves, Sam",R,@RepSamGraves
+TX,House,"Green, Al",D,@RepAlGreen
+TN,House,"Green, Mark",R,@RepMarkGreen
+GA,House,"Greene, Majorie Taylor",R,@RepMTG
+VA,House,"Griffith, Morgan",R,@RepMGriffith
+AZ,House,"Grijalva, Raul",D,@RepRaulGrijalva
+WI,House,"Grothman, Glenn",R,@RepGrothman
+MS,House,"Guest, Michael",R,@RepMichaelGuest
+KY,House,"Guthrie, S. Brett",R,@RepGuthrie
+CA,House,"Harder, Josh",D,@RepJoshHarder
+MD,House,"Harris, Andy",R,@RepAndyHarrisMD
+TN,House,"Harshbarger, Diana",R,@RepHarshbarger
+MO,House,"Hartzler, Vicky",R,@RepHartzler
+CT,House,"Hayes, Jahana",D,@RepJahanaHayes
+OK,House,"Hern, Kevin",R,@repkevinhern
+NM,House,"Herrell, Yvette",R,@RepHerrell
+WA,House,"Herrera Butler, Jaime",R,@HerreraBeutler
+GA,House,"Hice, Jody",R,@CongressmanHice
+NY,House,"Higgins, Brian",D,@RepBrianHiggins
+LA,House,"Higgins, Clay",R,@RepClayHiggins
+AR,House,"Hill, French",R,@RepFrenchHill
+CT,House,"Himes, Jim",D,@jahimes
+IA,House,"Hinson, Ashley",R,@RepAshleyHinson
+IN,House,"Hollingsworth, Trey",R,@RepTrey
+NV,House,"Horsford, Steven",D,@RepHorsford
+PA,House,"Houlahan, Chrissy",D,@RepHoulahan
+MD,House,"Hoyer, Steny H.",D,@LeaderHoyer
+NC,House,"Hudson, Richard",R,@RepRichHudson
+CA,House,"Huffman, Jared",D,@RepHuffman
+MI,House,"Huizenga, Bill",R,@RepHuizenga
+CA,House,"Issa, Darrell",R,@repdarrellissa
+TX,House,"Jackson Lee, Sheila",D,@JacksonLeeTX18
+TX,House,"Jackson, Ronny",R,@RepRonnyJackson
+NY,House,"Jacobs, Chris",R,@RepJacobs
+CA,House,"Jacobs, Sara",D,@RepSaraJacobs
+WA,House,"Jayapal, Pramila",D,@RepJayapal
+NY,House,"Jeffries, Hakeem",D,@RepJeffries
+OH,House,"Johnson, Bill",R,@RepBillJohnson
+SD,House,"Johnson, Dusty",R,@RepDustyJohnson
+TX,House,"Johnson, Eddie Bernice",D,@RepEBJ
+GA,House,"Johnson, Henry C. ""Hank"" Jr.",D,@RepHankJohnson
+LA,House,"Johnson, Mike",R,@RepMikeJohnson
+NY,House,"Jones, Mondaire",D,@RepMondaire
+OH,House,"Jordan, Jim",R,@Jim_Jordan
+OH,House,"Joyce, David",R,@RepDaveJoyce
+PA,House,"Joyce, John",R,@RepJohnJoyce
+HI,House,"Kahele, Kaiali'i",D,@KaheleRep
+OH,House,"Kaptur, Marcy",D,@RepMarcyKaptur
+NY,House,"Katko, John",R,@RepJohnKatko
+MA,House,"Keating, William",D,@USRepKeating
+PA,House,"Keller, Fred",R,@RepFredKeller
+PA,House,"Kelly, Mike",R,@MikeKellyPA
+IL,House,"Kelly, Robin",D,@RepRobinKelly
+MS,House,"Kelly, Trent",R,@RepTrentKelly
+CA,House,"Khanna, Ro",D,@RepRoKhanna
+MI,House,"Kildee, Dan",D,@RepDanKildee
+WA,House,"Kilmer, Derek",D,@RepDerekKilmer
+NJ,House,"Kim, Andy",D,@RepAndyKimNJ
+CA,House,"Kim, Young",R,@RepYoungKim
+WI,House,"Kind, Ron",D,@RepRonKind
+IL,House,"Kinzinger, Adam",R,@RepKinzinger
+AZ,House,"Kirkpatrick, Ann",D,@RepKirkpatrick
+IL,House,"Krishnamoorthi, Raja",D,@CongressmanRaja
+NH,House,"Kuster, Ann",D,@RepAnnieKuster
+TN,House,"Kustoff, David",R,@RepDavidKustoff
+IL,House,"LaHood, Darin",R,@RepLaHood
+CA,House,"LaMalfa, Doug",R,@RepLaMalfa
+PA,House,"Lamb, Conor",D,@RepConorLamb
+CO,House,"Lamborn, Doug",R,@RepDLamborn
+RI,House,"Langevin, Jim",D,@JimLangevin
+WA,House,"Larsen, Rick",D,@RepRickLarsen
+CT,House,"Larson, John B.",D,@RepJohnLarson
+OH,House,"Latta, Robert E.",R,@boblatta
+KS,House,"LaTurner, Jake",R,@RepLaTurner
+MI,House,"Lawrence, Brenda",D,@RepLawrence
+FL,House,"Lawson, Al",D,@RepAlLawsonJr
+CA,House,"Lee, Barbara",D,@RepBarbaraLee
+NV,House,"Lee, Susie",D,@RepSusieLee
+NM,House,"Leger Fernandez, Teresa",D,@RepTeresaLF
+AZ,House,"Lesko, Debbie",R,@RepDLesko
+LA,House,"Letlow, Julia",R,@RepJuliaLetlow
+MI,House,"Levin, Andy",D,@RepAndyLevin
+CA,House,"Levin, Mike",D,@RepMikeLevin
+CA,House,"Lieu, Ted",D,@RepTedLieu
+CA,House,"Lofgren, Zoe",D,@RepZoeLofgren
+MO,House,"Long, Billy",R,@USRepLong
+GA,House,"Loudermilk, Barry",R,@RepLoudermilk
+CA,House,"Lowenthal, Alan",D,@RepLowenthal
+OK,House,"Lucas, Frank",R,@RepFrankLucas
+MO,House,"Luetkemeyer, Blaine",R,@RepBlaine
+VA,House,"Luria, Elaine",D,@RepElaineLuria
+MA,House,"Lynch, Stephen F.",D,@RepStephenLynch
+SC,House,"Mace, Nancy",R,@RepNancyMace
+NJ,House,"Malinowski, Tom",D,@RepMalinowski
+NY,House,"Malliotakis, Nicole",R,@RepMalliotakis
+NY,House,"Maloney, Carolyn",D,@RepMaloney
+NY,House,"Maloney, Sean Patrick",D,@RepSeanMaloney
+KS,House,"Mann, Tracey",R,@RepMann
+NC,House,"Manning, Kathy E.",D,@RepKManning
+KY,House,"Massie, Thomas",R,@RepThomasMassie
+FL,House,"Mast, Brian",R,@RepBrianMast
+CA,House,"Matsui, Doris O.",D,@DorisMatsui
+GA,House,"McBath, Lucy",D,@RepLucyMcBath
+CA,House,"McCarthy, Kevin",R,@GOPLeader
+TX,House,"McCaul, Michael T.",R,@RepMcCaul
+MI,House,"McClain, Lisa C.",R,@RepLisaMcClain
+CA,House,"McClintock, Tom",R,@RepMcClintock
+MN,House,"McCollum, Betty",D,@BettyMcCollum04
+VA,House,"McEachin, A. Donald",D,@RepMcEachin
+MA,House,"McGovern, James",D,@RepMcGovern
+NC,House,"McHenry, Patrick T.",R,@PatrickMcHenry
+WV,House,"McKinley, David",R,@RepMcKinley
+CA,House,"McNerney, Jerry",D,@RepMcNerney
+NY,House,"Meeks, Gregory W.",D,@RepGregoryMeeks
+MI,House,"Meijer, Peter",R,@RepMeijer
+NY,House,"Meng, Grace",D,@RepGraceMeng
+PA,House,"Meuser, Daniel",R,@RepMeuser
+MD,House,"Mfume, Kweisi",D,@RepKweisiMfume
+IA,House,"Miller-Meeks, Mariannette",R,@RepMMM
+WV,House,"Miller, Carol",R,@RepCarolMiller
+WV,House,"Miller, Mary E.",R,@RepMaryMiller
+MI,House,"Moolenaar, John",R,@RepMoolenaar
+WV,House,"Mooney, Alex",R,@RepAlexMooney
+AL,House,"Moore, Barry",R,@RepBarryMoore
+UT,House,"Moore, Blake D.",R,@RepBlakeMoore
+WI,House,"Moore, Gwen",D,@RepGwenMoore
+NY,House,"Morelle, Joe",D,@RepJoeMorelle
+MA,House,"Moulton, Seth",D,@teammoulton
+IN,House,"Mrvan, Frank J.",D,@RepMrvan
+OK,House,"Mullin, Markwayne",R,@RepMullin
+NC,House,"Murphy, Gregory Francis",R,@RepGregMurphy
+FL,House,"Murphy, Stephanie",D,@RepStephMurphy
+NY,House,"Nadler, Jerrold",D,@RepJerryNadler
+CA,House,"Napolitano, Grace",D,@gracenapolitano
+MA,House,"Neal, Richard E.",D,@RepRichardNeal
+CO,House,"Neguse, Joe",D,@RepJoeNeguse
+TX,House,"Nehls, Troy E.",R,@RepTroyNehls
+WA,House,"Newhouse, Dan",R,@RepNewhouse
+IL,House,"Newman, Marie",D,@RepMarieNewman
+NJ,House,"Norcross, Donald",D,@DonaldNorcross
+SC,House,"Norman, Ralph",R,@RepRalphNorman
+DC,House,"Norton, Eleanor Holmes",D,@EleanorNorton
+AZ,House,"O'Halleran, Tom",D,@RepOHalleran
+CA,House,"Obernolte, Jay",R,@JayObernolte
+NY,House,"Ocasio-Cortez, Alexandria",D,@RepAOC
+MN,House,"Omar, Ilhan",D,@Ilhan
+UT,House,"Owens, Burgess",R,@RepBurgessOwens
+MS,House,"Palazzo, Steven",R,@CongPalazzo
+NJ,House,"Pallone Jr., Frank",D,@FrankPallone
+AL,House,"Palmer, Gary",R,@USRepGaryPalmer
+CA,House,"Panetta, Jimmy",D,@RepJimmyPanetta
+NH,House,"Pappas, Chris",D,@RepChrisPappas
+NJ,House,"Pascrell Jr., Bill",D,@BillPascrell
+NJ,House,"Payne Jr., Donald",D,@RepDonaldPayne
+CA,House,"Pelosi, Nancy",D,@SpeakerPelosi
+IN,House,"Pence, Greg",R,@RepGregPence
+CO,House,"Perlmutter, Ed",D,@RepPerlmutter
+PA,House,"Perry, Scott",R,@RepScottPerry
+CA,House,"Peters, Scott",D,@RepScottPeters
+TX,House,"Pfluger, August",R,@RepPfluger
+MN,House,"Phillips, Dean",D,@RepDeanPhillips
+ME,House,"Pingree, Chellie",D,@chelliepingree
+VI,House,"Plaskett, Stacey",D,@StaceyPlaskett
+WI,House,"Pocan, Mark",D,@repmarkpocan
+CA,House,"Porter, Katie",D,@RepKatiePorter
+FL,House,"Posey, Bill",R,@congbillposey
+MA,House,"Pressley, Ayanna",D,@RepPressley
+NC,House,"Price, David",D,@RepDavidEPrice
+IL,House,"Quigley, Mike",D,@RepMikeQuigley
+AS,House,"Radewagen, Amata",R,@RepAmata
+MD,House,"Raskin, Jamie",D,@RepRaskin
+PA,House,"Reschenthaler, Guy",R,@GReschenthaler
+NY,House,"Rice, Kathleen",D,@RepKathleenRice
+SC,House,"Rice, Tom",R,@RepTomRice
+WA,House,"Rodgers, Cathy McMorris",R,@cathymcmorris
+KY,House,"Rogers, Harold",R,@RepHalRogers
+AL,House,"Rogers, Mike",R,@RepMikeRogersAL
+TN,House,"Rose, John W.",R,@RepJohnRose
+MT,House,"Rosendale, Matthew M.",R,@RepRosendale
+NC,House,"Ross, Deborah K.",D,@RepDeborahRoss
+NC,House,"Rouzer, David",R,@RepDavidRouzer
+TX,House,"Roy, Chip",R,@RepChipRoy
+CA,House,"Roybal-Allard, Lucille",D,@RepRoybalAllard
+CA,House,"Ruiz, Raul",D,@RepRaulRuizMD
+MD,House,"Ruppersberger, C. A. Dutch",D,@Call_Me_Dutch
+IL,House,"Rush, Bobby L.",D,@RepBobbyRush
+FL,House,"Rutherford, John",R,@RepRutherfordFL
+OH,House,"Ryan, Tim",D,@RepTimRyan
+MP,House,"Sablan, Gregorio",D,@Kilili_Sablan
+FL,House,"Salazar, Maria Elvira",R,@RepMariaSalazar
+GU,House,"San Nicolas, Michael F. Q.",D,@GuamCongressman
+CA,House,"Sánchez, Linda",D,@RepLindaSanchez
+MD,House,"Sarbanes, John P.",D,@RepSarbanes
+LA,House,"Scalise, Steve",R,@SteveScalise
+PA,House,"Scanlon, Mary Gay",D,@RepMGS
+IL,House,"Schakowsky, Jan",D,@janschakowsky
+CA,House,"Schiff, Adam",D,@RepAdamSchiff
+IL,House,"Schneider, Bradley",D,@RepSchneider
+OR,House,"Schrader, Kurt",D,@RepSchrader
+WA,House,"Schrier, Kim",D,@RepKimSchrier
+AZ,House,"Schweikert, David",R,@RepDavid
+GA,House,"Scott, Austin",R,@AustinScottGA08
+GA,House,"Scott, David",D,@repdavidscott
+VA,House,"Scott, Robert C.",D,@BobbyScott
+TX,House,"Sessions, Pete",R,@PeteSessions
+AL,House,"Sewell, Terri A.",D,@RepTerriSewell
+CA,House,"Sherman, Brad",D,@BradSherman
+NJ,House,"Sherrill, Mikie",D,@RepSherrill
+ID,House,"Simpson, Mike",R,@CongMikeSimpson
+NJ,House,"Sires, Albio",D,@RepSires
+MI,House,"Slotkin, Elissa",D,@RepSlotkin
+WA,House,"Smith, Adam",D,@RepAdamSmith
+NE,House,"Smith, Adrian",R,@RepAdrianSmith
+NJ,House,"Smith, Chris",R,
+MO,House,"Smith, Jason",R,@RepJasonSmith
+PA,House,"Smucker, Lloyd",R,@RepSmucker
+FL,House,"Soto, Darren",D,@RepDarrenSoto
+VA,House,"Spanberger, Abigail",D,@RepSpanberger
+IN,House,"Spartz, Victoria",R,@RepSpartz
+CA,House,"Speier, Jackie",D,@RepSpeier
+NM,House,"Stansbury, Melanie ",D,@Rep_Stansbury
+AZ,House,"Stanton, Greg",D,@RepGregStanton
+MN,House,"Stauber, Pete",R,@RepPeteStauber
+CA,House,"Steel, Michelle",R,@RepSteel
+NY,House,"Stefanik, Elise",R,@RepStefanik
+WI,House,"Steil, Bryan",R,@RepBryanSteil
+FL,House,"Steube, W. Gregory",R,@RepGregSteube
+MI,House,"Stevens, Haley",D,@RepHaleyStevens
+UT,House,"Stewart, Chris",R,@RepChrisStewart
+WA,House,"Strickland, Marilyn",D,@RepStricklandWA
+NY,House,"Suozzi, Thomas",D,@RepTomSuozzi
+CA,House,"Swalwell, Eric",D,@RepSwalwell
+CA,House,"Takano, Mark",D,@RepMarkTakano
+TX,House,"Taylor, Van",R,@RepVanTaylor
+NY,House,"Tenney, Claudia",R,@claudiatenney
+MS,House,"Thompson, Bennie G.",D,@BennieGThompson
+PA,House,"Thompson, Glenn",R,@CongressmanGT
+CA,House,"Thompson, Mike",D,@RepThompson
+WI,House,"Tiffany, Thomas P.",R,@RepTiffany
+SC,House,"Timmons, William",R,@RepTimmons
+NV,House,"Titus, Dina",D,@repdinatitus
+MI,House,"Tlaib, Rashida",D,@RepRashida
+NY,House,"Tonko, Paul D.",D,@RepPaulTonko
+CA,House,"Torres, Norma",D,@NormaJTorres
+NY,House,"Torres, Ritchie",D,@RepRitchie
+MA,House,"Trahan, Lori",D,@RepLoriTrahan
+MD,House,"Trone, David",D,@RepDavidTrone
+OH,House,"Turner, Mike",R,@RepMikeTurner
+IL,House,"Underwood, Lauren",D,@RepUnderwood
+MI,House,"Upton, Fred",R,@RepFredUpton
+CA,House,"Valadao, David G.",R,@RepDavidValadao
+NJ,House,"Van Drew, Jefferson",R,@Congressman_JVD
+TX,House,"Van Duyne, Beth",R,@RepBethVanDuyne
+CA,House,"Vargas, Juan",D,@RepJuanVargas
+TX,House,"Veasey, Marc",R,@RepVeasey
+NY,House,"Velázquez, Nydia M.",D,@NydiaVelazquez
+MO,House,"Wagner, Ann",R,@RepAnnWagner
+MI,House,"Walberg, Tim",R,@RepWalberg
+FL,House,"Waltz, Michael",R,@michaelgwaltz
+FL,House,"Wasserman Schultz, Debbie",R,@RepDWStweets
+CA,House,"Waters, Maxine",D,@RepMaxineWaters
+NJ,House,"Watson Coleman, Bonnie",D,@RepBonnie
+TX,House,"Weber, Randy",R,@TXRandy14
+FL,House,"Webster, Daniel",R,@RepWebster
+VT,House,"Welch, Peter",D,@PeterWelch
+OH,House,"Wenstrup, Brad",R,@RepBradWenstrup
+AR,House,"Westerman, Bruce",R,@RepWesterman
+VA,House,"Wexton, Jennifer",D,@RepWexton
+PA,House,"Wild, Susan",D,@RepSusanWild
+GA,House,"Williams, Nikema",D,@RepNikema
+TX,House,"Williams, Roger",R,@RepRWilliams
+FL,House,"Wilson, Frederica",D,@RepWilson
+SC,House,"Wilson, Joe",R,@RepJoeWilson
+VA,House,"Wittman, Robert J.",R,@RobWittman
+AR,House,"Womack, Steve",R,@rep_stevewomack
+KY,House,"Yarmuth, John A.",D,@RepJohnYarmuth
+NY,House,"Zeldin, Lee",R,@RepLeeZeldin
