@@ -108,5 +108,7 @@ quotes = [
 ,"Whenever this starts, there’s always someone trying to organize the others."
 ,"You’ve done it."
 ,"That’s a commendable achievement."
-,"But as far as our goals are concerned… unproductive."
+,"But as far as our goals are concerned... unproductive."
+,"You know what they say. What goes up, must come down."
+,"Seen one... seen them all."
 ]
