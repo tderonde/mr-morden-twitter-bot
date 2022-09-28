@@ -4,7 +4,7 @@ quotes = [
  "All I can tell you is we have what we want."
 ,"The rest is no concern to us."
 ,"And based on your promise to take care of it, they accept your responsibility without question or hesitation."
-,"And how is your war going?"
+# ,"And how is your war going?"
 ,"And then what?"
 ,"Anything I can do to help?"
 ,"As you say."
