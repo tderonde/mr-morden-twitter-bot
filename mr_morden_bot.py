@@ -25,6 +25,7 @@ while tweet_link == None and i < 5:
 
     # reply to the random user's most recent tweet with a random Mr. Morden quote or image
     tweet_list = list(zip(quotes, ['text'] * len(quotes))) + list(zip(png_filenames, ['png'] * len(png_filenames)))
+    print(tweet_list)
     tweet = random.choice(tweet_list)
     print(f"Random tweet selected: {tweet}")
 
@@ -33,6 +34,7 @@ while tweet_link == None and i < 5:
             text = tweet[0] + ' #B5onCWin23'
             media_id = None
         else:
+#             text = None
             text = '#B5onCWin23'
             media = api.simple_upload(tweet[0])
             media_id = media.media_id
